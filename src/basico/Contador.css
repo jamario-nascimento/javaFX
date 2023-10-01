@@ -1,0 +1,13 @@
+.conteudo{
+	-fx-background-color: #000;
+	
+	}
+	
+.titulo{
+		-fx-text-fill: blue;
+	-fx-font-size: 5em;
+}	
+.numero{
+	-fx-text-fill: #fff;
+	-fx-font-size: 2em;
+}
